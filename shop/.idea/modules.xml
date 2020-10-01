@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../1902e/.idea/1902e.iml" filepath="$PROJECT_DIR$/../1902e/.idea/1902e.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../purelacmall/.idea/purelacmall.iml" filepath="$PROJECT_DIR$/../purelacmall/.idea/purelacmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/shop.iml" filepath="$PROJECT_DIR$/.idea/shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../thuctap-blog/.idea/thuctap-blog.iml" filepath="$PROJECT_DIR$/../thuctap-blog/.idea/thuctap-blog.iml" />
+    </modules>
+  </component>
+</project>
